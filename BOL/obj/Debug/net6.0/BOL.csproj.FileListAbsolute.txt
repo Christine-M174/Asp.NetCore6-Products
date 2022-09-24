@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\WebApp-Products\BOL\bin\Debug\net6.0\BOL.deps.json
+C:\Users\user\source\repos\WebApp-Products\BOL\bin\Debug\net6.0\BOL.dll
+C:\Users\user\source\repos\WebApp-Products\BOL\bin\Debug\net6.0\ref\BOL.dll
+C:\Users\user\source\repos\WebApp-Products\BOL\bin\Debug\net6.0\BOL.pdb
+C:\Users\user\source\repos\WebApp-Products\BOL\obj\Debug\net6.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WebApp-Products\BOL\obj\Debug\net6.0\BOL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WebApp-Products\BOL\obj\Debug\net6.0\BOL.AssemblyInfo.cs
+C:\Users\user\source\repos\WebApp-Products\BOL\obj\Debug\net6.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WebApp-Products\BOL\obj\Debug\net6.0\BOL.dll
+C:\Users\user\source\repos\WebApp-Products\BOL\obj\Debug\net6.0\ref\BOL.dll
+C:\Users\user\source\repos\WebApp-Products\BOL\obj\Debug\net6.0\BOL.pdb
